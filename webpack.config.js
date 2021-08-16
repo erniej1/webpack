@@ -12,6 +12,8 @@ if (process.env.NODE_ENV === 'producton') {
   target = 'browserslist';
 }
 
+//Comment goes here//
+
 module.exports = {
   mode: 'production',
   target: target,
